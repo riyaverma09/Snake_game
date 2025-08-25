@@ -21,3 +21,5 @@ The game is simple, fun, and interactive – move the snake using arrow keys, ea
    ```bash
    git clone https://github.com/YourUsername/snake-game.git
    cd snake-game
+
+![Snake Game Screenshot](snake_game/Screenshot 2025-08-25 144649.png)
